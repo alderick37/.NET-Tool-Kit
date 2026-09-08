@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>toolkit-tests</AssemblyName>
+    <RootNamespace>Toolkit.Tests</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/Toolkit.Core/Toolkit.Core.csproj" />
+  </ItemGroup>
+</Project>

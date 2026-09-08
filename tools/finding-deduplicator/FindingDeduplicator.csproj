@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>finding-deduplicator</AssemblyName>
+    <RootNamespace>Toolkit.Tools.FindingDeduplicator</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/Toolkit.Core/Toolkit.Core.csproj" />
+  </ItemGroup>
+</Project>

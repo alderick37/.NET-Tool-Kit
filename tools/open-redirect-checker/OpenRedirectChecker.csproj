@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>open-redirect-checker</AssemblyName>
+    <RootNamespace>Toolkit.Tools.OpenRedirectChecker</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/Toolkit.Core/Toolkit.Core.csproj" />
+  </ItemGroup>
+</Project>
